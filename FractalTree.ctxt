@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FractalTree()
+comment0.text=\n\ Constructor\ for\ objects\ of\ classFractalTree\n
+comment1.params=g\ x1\ y1\ angle\ depth
+comment1.target=void\ drawTree(java.awt.Graphics,\ int,\ int,\ double,\ int)
+comment1.text=\n\ Draws\ fractal\ tree\ with\ parameters\ set\ by\ user.\n\ \n\ @param\ \ \ g\ \ \ \ \ \ \ Graphics\ object\ from\ content\ pane\n\ @param\ \ \ x1\ \ \ \ \ \ Initial\ X\ coordinate\ value\n\ @param\ \ \ y1\ \ \ \ \ \ Initial\ Y\ coordinate\ value\n\ @param\ \ \ angle\ \ \ Initial\ angle\n\ @param\ \ \ depth\ \ \ Level\ Of\ Detail\ for\ Tree\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\n\ Paint\ method\ that\ paints\ the\ Fractal\ tree\ with\ a\ specific\ color\n\ \n\ @param\ \ \ g\ \ \ Graphics\ object\ from\ content\ pane\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Main\ method\ that\ runs\ FratcalTree\n
+numComments=4
